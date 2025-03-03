@@ -32,11 +32,7 @@ Esta é uma aplicação fullstack para consulta de CEP, armazenamento e exibiç�
 
 ### Banco de Dados
 
-1. Crie um banco de dados PostgreSQL chamado `cep_database`
-
-```sql
-CREATE DATABASE cep_database;
-```
+The mandarei a URL de conexão :)
 
 ### Backend
 
@@ -55,7 +51,7 @@ npm install
 3. Configure as variáveis de ambiente no arquivo `.env`:
 
 ```
-DATABASE_URL=sua_url
+DATABASE_URL=url_que_irei_enviar
 PORT=3001
 ```
 
